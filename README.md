@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Aidan
 
-Electrical engineering student at UBC Okanagan (grad 2026) turning messy infrastructure problems into reliable, well-documented systems.
+I’m an Electrical Engineering student at UBC Okanagan (graduating in 2026) with a strong passion for both technology and entrepreneurship. I thrive at the intersection of engineering and business, developing practical, high-impact solutions that blend technical insight with creative strategy.
 
 **Focus** power systems, embedded hardware, simulation-first design  
 **Portfolio** [aidanmendoza.com](https://aidanmendoza.com) · **Email** [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) · **Location** Calgary, Alberta  
@@ -10,9 +10,9 @@ Electrical engineering student at UBC Okanagan (grad 2026) turning messy infrast
 
 ## ⚙️ What I'm working on
 
-- Finishing a BASc centered on resilient energy distribution and safety-critical circuitry.
-- Carrying forward lessons from $2.3M+ pipeline replacement programs and rapid ops tooling.
-- Prototyping BLDC motors, sensor-first mobility platforms, and a solar-powered IoT photo booth.
+- Finishing a BASc in Electrical Engineering.
+- Carrying forward lessons from $2.3M+ pipeline replacement programs.
+- Prototyping BLDC motors, sensor systems, and a solar-powered IoT photo booth.
 
 ---
 
