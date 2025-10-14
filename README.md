@@ -2,7 +2,7 @@
 
 I’m an Electrical Engineering student at UBC Okanagan (graduating in 2026) with a strong passion for both technology and entrepreneurship. I thrive at the intersection of engineering and business, developing practical, high-impact solutions that blend technical insight with creative strategy.
 
-**Focus** power systems, embedded hardware, simulation-first design  
+**Focus** power systems, embedded hardware
 **Portfolio** [aidanmendoza.com](https://aidanmendoza.com) · **Email** [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) · **Location** Calgary, Alberta  
 **Resume** [Download PDF](./AIDAN_MENDOZA.pdf)
 
