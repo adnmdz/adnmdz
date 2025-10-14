@@ -18,7 +18,7 @@ I’m an Electrical Engineering student at UBC Okanagan (graduating in 2026) wit
 
 ## 📈 Experience Snapshot
 
-- **ATCO – Distribution Engineering Co-op (May 2023 – Aug 2024, Calgary)**: Delivered pipeline design packages, ran Synergi hydraulic sims, authored live-gas tie-in playbooks.  
+- **ATCO – Distribution Engineering Co-op (May 2023 – Aug 2024, Calgary)**: Delivered pipeline design packages, ran Synergi hydraulic sims, authored tie-in procedures.
 - **City of Calgary Rail – Electrical Systems Intern (May 2022 – Aug 2022, Calgary)**: Produced relay-box schematics, diagnosed C-Train crossings, supported interlocking troubleshooting.  
 - **Makmend Media – Founder (May 2019 – Present, Calgary)**: Delivered 100+ photo/video/tech projects, built a solar Li-ion photo booth, handled full-stack studio ops.
 
