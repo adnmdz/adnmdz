@@ -1,67 +1,45 @@
-<img src="assets/hero.svg" alt="Aidan Mendoza hero banner" width="100%"/>
-
 ## 👋 Hey, I'm Aidan
 
-I'm an electrical engineering student at The University of British Columbia (Kelowna) graduating in 2026. I love taking complex infrastructure problems—from distribution pipelines to rail signaling—and turning them into reliable systems with clean documentation, intuitive tooling, and a little design polish.
+Electrical engineering student at UBC Okanagan (grad 2026) turning messy infrastructure problems into reliable, well-documented systems.
 
-- 🎓 Current focus: power systems, embedded hardware, and simulation-driven design  
-- 💼 Most recent role: Distribution Engineering Improvements Co-op @ ATCO (Calgary, AB)  
-- 🛠️ Building: hand-wound BLDC motors, autonomous Raspberry Pi cars, and a solar-powered IoT photo booth  
-- 🌐 Portfolio: [aidanmendoza.com](https://aidanmendoza.com) | 📬 [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) | 📍 Calgary, Alberta  
-- 📄 [Download my resume](./AIDAN_MENDOZA.pdf)
+**Focus** power systems, embedded hardware, simulation-first design  
+**Portfolio** [aidanmendoza.com](https://aidanmendoza.com) · **Email** [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) · **Location** Calgary, Alberta  
+**Resume** [Download PDF](./AIDAN_MENDOZA.pdf)
 
 ---
 
 ## ⚙️ What I'm working on
 
-- Finishing my BASc in Electrical Engineering at UBC with a focus on resilient energy distribution and safety-critical circuitry.
-- Capturing lessons from $2.3M+ pipeline replacement programs—design reviews, Synergi hydraulic simulations, and live-gas tie-in procedures.
-- Prototyping motor drivers and sensor suites for small-form factor mobility systems.
-- Running Makmend Media, a creative/technical studio delivering photo, video, and custom hardware builds for 100+ clients.
+- Finishing a BASc centered on resilient energy distribution and safety-critical circuitry.
+- Carrying forward lessons from $2.3M+ pipeline replacement programs and rapid ops tooling.
+- Prototyping BLDC motors, sensor-first mobility platforms, and a solar-powered IoT photo booth.
 
 ---
 
 ## 📈 Experience Snapshot
 
-<img src="assets/experience-timeline.svg" alt="Experience timeline for ATCO, City of Calgary Rail, and Makmend Media" width="100%"/>
-
-### Highlights
-
-- **ATCO | Distribution Engineering Improvements Co-op (May 2023 - Aug 2024)**  
-  Managed design packages for multi-million-dollar pipeline replacements, coordinated construction, land, and environmental teams, ran Synergi hydraulic simulations, and authored live-gas tie-in procedures aligned with CSA Z662/AUC requirements.
-
-- **City of Calgary | Electrical Rail Systems Intern (May 2022 - Aug 2022)**  
-  Produced AutoCAD Electrical schematics for WAGO relay boxes, brought switch diagrams up to current safety standards, and supported signal/interlocking maintenance across the C-Train network.
-
-- **Makmend Media | Owner/Operator (May 2019 - Present)**  
-  Full-stack creative/technical studio: built a solar-powered Li-ion photo booth with IoT telemetry, delivered professional media services with advanced camera rigs, and handled operations from client acquisition to P&L.
+- **ATCO – Distribution Engineering Co-op (May 2023 – Aug 2024, Calgary)**: Delivered pipeline design packages, ran Synergi hydraulic sims, authored live-gas tie-in playbooks.  
+- **City of Calgary Rail – Electrical Systems Intern (May 2022 – Aug 2022, Calgary)**: Produced relay-box schematics, diagnosed C-Train crossings, supported interlocking troubleshooting.  
+- **Makmend Media – Founder (May 2019 – Present, Calgary)**: Delivered 100+ photo/video/tech projects, built a solar Li-ion photo booth, handled full-stack studio ops.
 
 ---
 
-## 🧪 Selected Projects
+## 🧪 Projects I’m proud of
 
-| Project | Tech | Why it matters |
-| --- | --- | --- |
-| **Brushless DC Motor** (Mar 2025) | LTSpice / Fusion 360 / custom stator windings | Designed and hand-assembled a 3-phase BLDC motor, tuned balance/magnet placement, and integrated RC control electronics for smooth wireless throttle. |
-| **16-bit Arithmetic Logic Unit (ALU)** (Nov 2024) | SystemVerilog / EDA Playground | Implemented a multi-operation ALU with opcode decoding and a custom testbench for edge-case validation in a synthesized environment. |
-| **Tractive System Active Light (TSAL)** (May 2024) | Altium / LTSpice | Engineered a safety-critical indicator per FSAE rules, combining comparator/FET logic, validated by simulation and bench testing, and integrated with vehicle interlocks. |
-| **Self-Driving Pi Car** (Jan 2023) | Raspberry Pi / Python / Keras / OpenCV | Trained a CNN for lane-following, deployed real-time inference on-device, and fused OpenCV with PWM motor control for stable autonomous navigation. |
+- **Brushless DC Motor (2025)** – Hand-wound a custom 3-phase BLDC, balanced rotor dynamics, integrated RC control electronics.  
+- **Tractive System Active Light (2024)** – FSAE-compliant indicator using comparator/FET logic, validated in LTSpice and on the bench.  
+- **Self-Driving Pi Car (2023)** – CNN-based lane follower combining OpenCV vision, PWM motor control, and on-device inference.
 
 ---
 
 ## 🛠️ Toolbox
 
-| Systems & Simulation | Firmware & Software | CAD & Fabrication | Ops & Creative |
-| --- | --- | --- | --- |
-| Altium, LTSpice, Intel Quartus, PSIM, Bluebeam, ArcGIS, Primavera | Python, MATLAB/Simulink, SystemVerilog, ARM Assembly, C++, R/RStudio, HTML/CSS | SolidWorks, AutoCAD, Fusion 360, Inventor, Creality Print | Microsoft Office (Excel/Word/PowerPoint), Adobe Suite, WordPress |
+Altium · LTSpice · Quartus · Python · MATLAB/Simulink · SystemVerilog · ARM Assembly · SolidWorks · Fusion 360 · AutoCAD · ArcGIS · Adobe CC
 
 ---
 
 ## 📫 Let's connect
 
-- Email: [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com)  
-- Website: [aidanmendoza.com](https://aidanmendoza.com)  
-- Phone: (403) 608-1021  
-- Location: Calgary, Alberta
+[aidanmendoza.com](https://aidanmendoza.com) · [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) · Calgary, Alberta
 
-Thanks for stopping by! If you're building resilient infrastructure, electric mobility systems, or creative human-centered tools, I'd love to collaborate.
+If you're building resilient infrastructure, electric mobility systems, or creative human-centered tools, let's chat.
