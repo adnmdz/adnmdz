@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Aidan
+## About 
 
 I’m an Electrical Engineering student at UBC Okanagan (graduating in 2026) with a strong passion for both technology and entrepreneurship. I thrive at the intersection of engineering and business, developing practical, high-impact solutions that blend technical insight with creative strategy.
 
