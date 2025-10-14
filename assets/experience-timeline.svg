@@ -1,0 +1,62 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes slide {
+      0% { stroke-dashoffset: 600; }
+      100% { stroke-dashoffset: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 0.25; r: 10; }
+      50% { opacity: 0.9; r: 14; }
+    }
+    text {
+      font-family: 'Segoe UI', 'Inter', sans-serif;
+      fill: #E2E8F0;
+    }
+    .heading {
+      font-size: 20px;
+      font-weight: 600;
+      fill: #BFDBFE;
+    }
+    .body {
+      font-size: 15px;
+      fill: #CBD5F5;
+    }
+  </style>
+  <rect width="1000" height="320" rx="18" fill="#0B1220"/>
+  <path d="M120 180 H880" stroke="#1E3A8A" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 18" style="stroke-dashoffset: 320; animation: slide 12s ease-in-out infinite alternate;"/>
+  <g transform="translate(200, 180)">
+    <circle r="36" fill="#1E3A8A" opacity="0.35"/>
+    <circle r="18" fill="#3B82F6" opacity="0.65"/>
+    <circle r="10" fill="#38BDF8" style="animation: blink 4.2s ease-in-out infinite;"/>
+    <text class="heading" x="-90" y="-80">ATCO | Calgary, AB</text>
+    <text class="body" x="-90" y="-50">Distribution Engineering Co-op</text>
+    <text class="body" x="-90" y="-28">- Led $2.3M pipeline programs &amp; Synergi simulations</text>
+    <text class="body" x="-90" y="-6">- Authored live-gas tie-ins, CSA Z662 compliance reviews</text>
+    <text class="body" x="-90" y="16">- Delivered GIS-ready construction packages</text>
+    <text class="body" x="-90" y="56" fill="#60A5FA">May 2023 - Aug 2024</text>
+  </g>
+  <g transform="translate(500, 180)">
+    <circle r="32" fill="#1E293B" opacity="0.35"/>
+    <circle r="16" fill="#3B82F6" opacity="0.55"/>
+    <circle r="10" fill="#38BDF8" style="animation: blink 5.1s ease-in-out infinite;"/>
+    <text class="heading" x="-80" y="-80">City of Calgary | Rail</text>
+    <text class="body" x="-80" y="-50">Electrical Systems Student Intern</text>
+    <text class="body" x="-80" y="-28">- AutoCAD schematics for WAGO relay boxes</text>
+    <text class="body" x="-80" y="-6">- Diagnosed C-Train crossings &amp; safety upgrades</text>
+    <text class="body" x="-80" y="16">- Supported signal &amp; interlocking troubleshooting</text>
+    <text class="body" x="-80" y="56" fill="#60A5FA">May 2022 - Aug 2022</text>
+  </g>
+  <g transform="translate(800, 180)">
+    <circle r="28" fill="#111827" opacity="0.35"/>
+    <circle r="14" fill="#3B82F6" opacity="0.5"/>
+    <circle r="10" fill="#38BDF8" style="animation: blink 6s ease-in-out infinite;"/>
+    <text class="heading" x="-90" y="-80">Makmend Media</text>
+    <text class="body" x="-90" y="-50">Founder | Creative Systems Engineer</text>
+    <text class="body" x="-90" y="-28">- 100+ photo/video/tech projects delivered</text>
+    <text class="body" x="-90" y="-6">- Solar-powered IoT photo booth design</text>
+    <text class="body" x="-90" y="16">- End-to-end ops: production, marketing, P&amp;L</text>
+    <text class="body" x="-90" y="56" fill="#60A5FA">May 2019 - Present</text>
+  </g>
+  <text x="120" y="80" class="heading">Experience Timeline</text>
+  <text x="120" y="108" class="body">Systems engineering, rail electrics, and entrepreneurially scrappy hardware builds.</text>
+</svg>

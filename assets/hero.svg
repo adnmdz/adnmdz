@@ -1,0 +1,94 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.9; transform: scale(1.15); }
+      100% { opacity: 0.3; transform: scale(1); }
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -600; }
+    }
+    .grid line {
+      stroke: rgba(255, 255, 255, 0.05);
+    }
+    .pulse {
+      animation: pulse 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .dash {
+      stroke-dasharray: 6 10;
+      animation: dash 14s linear infinite;
+    }
+    text {
+      font-family: 'Segoe UI', 'Inter', 'Helvetica Neue', sans-serif;
+      fill: #F8FAFC;
+    }
+    .tag {
+      font-size: 20px;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      fill: #93C5FD;
+    }
+    .title {
+      font-size: 64px;
+      font-weight: 700;
+    }
+    .subtitle {
+      font-size: 26px;
+      fill: #BAE6FD;
+    }
+    .highlight {
+      font-size: 18px;
+      fill: #E2E8F0;
+    }
+    .chip {
+      font-size: 16px;
+      fill: #0F172A;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="45%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <g class="grid">
+    <line x1="80" y1="40" x2="80" y2="380"/>
+    <line x1="220" y1="40" x2="220" y2="380"/>
+    <line x1="360" y1="40" x2="360" y2="380"/>
+    <line x1="500" y1="40" x2="500" y2="380"/>
+    <line x1="640" y1="40" x2="640" y2="380"/>
+    <line x1="780" y1="40" x2="780" y2="380"/>
+    <line x1="920" y1="40" x2="920" y2="380"/>
+    <line x1="1060" y1="40" x2="1060" y2="380"/>
+    <line x1="40" y1="90" x2="1160" y2="90"/>
+    <line x1="40" y1="170" x2="1160" y2="170"/>
+    <line x1="40" y1="250" x2="1160" y2="250"/>
+    <line x1="40" y1="330" x2="1160" y2="330"/>
+  </g>
+  <rect x="720" y="70" width="380" height="280" rx="18" fill="rgba(15,23,42,0.55)" stroke="#1E3A8A" stroke-opacity="0.6"/>
+  <path class="dash" d="M780 120 H1060 V260 H840 V200 H780" stroke="#38BDF8" stroke-width="2.4"/>
+  <circle class="pulse" cx="780" cy="120" r="7" fill="#38BDF8" opacity="0.7"/>
+  <circle class="pulse" cx="1060" cy="260" r="7" fill="#38BDF8" opacity="0.7"/>
+  <circle class="pulse" cx="840" cy="200" r="7" fill="#38BDF8" opacity="0.7"/>
+  <rect x="760" y="140" width="260" height="56" rx="12" fill="url(#glow)" opacity="0.8"/>
+  <text class="chip" x="780" y="176">Distribution Engineering | Electrical Systems | Creative Tech</text>
+  <text class="tag" x="120" y="118">Electrical Engineering / UBC 2026</text>
+  <text class="title" x="120" y="188">Aidan Mendoza</text>
+  <text class="subtitle" x="120" y="234">Designing resilient energy systems & human-centered tooling</text>
+  <text class="highlight" x="120" y="274">Co-op @ ATCO (Distribution Engineering Improvements)</text>
+  <text class="highlight" x="120" y="304">Building BLDC motors, rail control schematics, IoT photo booths</text>
+  <text class="highlight" x="120" y="334">Calgary-based | aidan.mdz.ca@gmail.com | aidanmendoza.com</text>
+  <circle cx="160" cy="360" r="26" fill="rgba(148,163,184,0.12)" stroke="#38BDF8" stroke-opacity="0.6"/>
+  <text x="148" y="368" font-size="20" fill="#38BDF8">⚡</text>
+  <circle cx="240" cy="360" r="26" fill="rgba(148,163,184,0.12)" stroke="#38BDF8" stroke-opacity="0.3"/>
+  <text x="224" y="368" font-size="20" fill="#38BDF8">🔧</text>
+  <circle cx="320" cy="360" r="26" fill="rgba(148,163,184,0.12)" stroke="#38BDF8" stroke-opacity="0.3"/>
+  <text x="304" y="368" font-size="20" fill="#38BDF8">🎥</text>
+</svg>
