@@ -42,4 +42,3 @@ Altium · LTSpice · Quartus · Python · MATLAB/Simulink · SystemVerilog · AR
 
 [aidanmendoza.com](https://aidanmendoza.com) · [aidan.mdz.ca@gmail.com](mailto:aidan.mdz.ca@gmail.com) · Calgary, Alberta
 
-If you're building resilient infrastructure, electric mobility systems, or creative human-centered tools, let's chat.
